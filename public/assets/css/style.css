@@ -1,0 +1,41 @@
+
+
+/*footer*/
+
+#footer {
+    display: flex;
+    flex-direction: column;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+#footer-social, #footer-links {
+    display: flex;
+    flex-direction: row;
+    margin: 0px auto;
+}
+
+#about-link {
+    margin-right: 10px;
+}
+
+#contact-link {
+    margin-left: 10px;
+}
